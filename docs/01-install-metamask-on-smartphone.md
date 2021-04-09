@@ -44,3 +44,5 @@ ATTENTION!! 12 phrases and your private key to your wallet are secret informatio
 
 ![image](https://user-images.githubusercontent.com/6874962/114139076-c0fdaa00-9938-11eb-8492-aab4e4fa847d.png)
 
+Now you have MetaMask on your smartphone. By default your Metamask connected to Ethereum network you change to change it to Binance Smartchain in order to transaction the BEP-20 Tokens. Follow our Next tutorial on how to [Change network to Binance Smart chain](https://github.com/selendra/Selendra-BEP20/blob/main/docs/02-Connecting-MetaMask-to-bsc.md)
+ 
