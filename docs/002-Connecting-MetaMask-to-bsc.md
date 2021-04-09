@@ -27,7 +27,8 @@ Once you Save the Network and return to the main view, you’ll notice two thing
 
 We’ve connected the Mainnet.
 
-![image](https://user-images.githubusercontent.com/6874962/114130084-06ff4180-992a-11eb-83a8-b2ac9e01ba67.png)
+![image](https://user-images.githubusercontent.com/6874962/114134197-893f3400-9931-11eb-9786-b5a5a8f3ed0e.png)
+
 
 
 Ref: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
