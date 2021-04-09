@@ -25,13 +25,9 @@ Block Explorer URL: https://bscscan.com
 We’re going to use the testnet in this tutorial, but you will likely want to use the mainnet. We recommend adding both if you intend to use MetaMask to transfer BNB or Binance Smart Chain tokens. 
 Once you Save the Network and return to the main view, you’ll notice two things: the network has automatically been set to the one you just entered, and the units are no longer denominated in ETH, but in BNB.
 
-
-We’ve connected to the Testnet, but you'll probably be connecting to the Mainnet.
-
-We’ve connected to the testnet, but you'll probably be connecting to the mainnet.
+We’ve connected the Mainnet.
 
 ![image](https://user-images.githubusercontent.com/6874962/114130084-06ff4180-992a-11eb-83a8-b2ac9e01ba67.png)
-
 
 
 Ref: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
