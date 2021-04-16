@@ -33,5 +33,6 @@ Tap on Save once you are done.
 #### Step 4. Token Successfully Added
 
 On the main wallet screen, the token will now appear. Since this is still a new token, the logo as well as the price will not be available. The token has to be trading first.
+
 ![image](https://user-images.githubusercontent.com/6874962/114969918-8f8a5e80-9ea3-11eb-91e3-a71c4a937f6c.png)
 
