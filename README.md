@@ -10,8 +10,14 @@ Selendra-BEP20 is a official repo Selendra Asset based on Binance Smart Chain.
 ## What is Selendra? 
 Selendra is codebase for Selendra a multi-use cases blockchain super-app for the Internet 2.0.
 
-## How to be part of our Community  
+## SEL Token
+[ ] Modify Name from SELENDRA TOKEN TO SELENDRA.
+[ ] Full verified at BSC Scan.
+[ ] Solidity V 0.8.0.
+[ ] Add Social Link.
+[ ] Brigde from BSC to EVM module or other network.
 
+## How to be part of our Community  
 General information and other non-technical topics can be discussed in our [Telegram group](https://t.me/selendraorg).
 
 Follow us on Twitter for regular updates [@selendraorg](https://twitter.com/selendraorg).
