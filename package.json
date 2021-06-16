@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/selendra/Selendra-BEP20/issues"
   },
-  "homepage": "https://github.com/selendra/Selendra-BEP20#readme"
+  "homepage": "https://github.com/selendra/Selendra-BEP20#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
 }
