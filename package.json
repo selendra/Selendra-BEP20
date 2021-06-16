@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/selendra/Selendra-BEP20#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.1.0"
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.9"
   }
 }
