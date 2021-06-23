@@ -1,6 +1,7 @@
 require('dotenv').config();
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = process.env.MNEMONIC_DEV.toString();
+// const mnemonic = process.env.MNEMONIC_DEV.toString();
+const mnemonic = process.env.MNEMONIC_MAINNET.toString();
 /**
  * Use this file to configure your truffle project. It's seeded with some
  * common settings for different networks and features like migrations,
@@ -75,6 +76,14 @@ module.exports = {
     // network_id: 2111,   // This network is yours, in the cloud.
     // production: true    // Treats this network as if it was a public net. (default: false)
     // }
+    bscMainnet: {
+      provider: () => new HDWalletProvider(
+        mnemonic,
+        'https://bsc-dataseed.binance.org'
+      ),
+      network_id: 56,
+      skipDryRun: true
+    },
     bscTestnet: {
       provider: () => new HDWalletProvider(
         mnemonic,
