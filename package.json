@@ -1,0 +1,31 @@
+{
+  "name": "selendra-bep20",
+  "version": "1.0.0",
+  "description": "Selendra-BEP20 is a official repo Selendra Asset based on Binance Smart Chain.",
+  "main": "truffle-config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selendra/Selendra-BEP20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selendra/Selendra-BEP20/issues"
+  },
+  "homepage": "https://github.com/selendra/Selendra-BEP20#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.9"
+  }
+}
